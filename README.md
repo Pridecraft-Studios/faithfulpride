@@ -2,7 +2,7 @@
 # Faithful Pride
 > *For information about the new versioning system, see [here](https://github.com/Pridecraft-Studios/faithfulpride/VERSIONING.md).*
 
-![Modrinth Downloads](https://img.shields.io/modrinth/dt/yPbBrzEX?logo=modrinth&label=Modrinth%20downloads&color=%231bd96a) ![CurseForge Downloads](https://img.shields.io/curseforge/dt/831872?logo=curseforge&label=CurseForge%20Downloads&color=%23f16436)
+![Modrinth Downloads](https://img.shields.io/modrinth/dt/lhR999ph?logo=modrinth&label=Modrinth%20downloads&color=%231bd96a) <!-- ![CurseForge Downloads](https://img.shields.io/curseforge/dt/831872?logo=curseforge&label=CurseForge%20Downloads&color=%23f16436) -->
 
 This is Faithful Pride. A LGBTQ+ Pride themed Resource Pack, with Faithful 32x-based textures, made by [Pridecraft Studios](https://git.pridecraft.gay/). We make Minecraft queer.
 ## Who
