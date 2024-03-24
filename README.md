@@ -8,7 +8,7 @@ This is Faithful Pride. A LGBTQ+ Pride themed Resource Pack, with Faithful 32x-b
 ## Who
 We're [Pridecraft Studios](https://pridecraft.gay): A team that makes LGBT content for Minecraft. We're working on [PridePack](https://git.pridecraft.gay/PridePack), [PrideMod](https://git.pridecraft.gay/PrideMod), and a few other [projects](https://git.pridecraft.gay/repositories).
 
-[![ko-fi](https://rawcdn.githack.com/intergrav/devins-badges/1aec26abb75544baec37249f42008b2fcc0e731f/assets/cozy/donate/kofi-plural_vector.svg)](https://ko-fi.com/W7W4NLJWR)
+[![patreon](https://github.com/intergrav/devins-badges/blob/v3/assets/cozy/donate/patreon-plural_64h.png?raw=true)](https://donate.pridecraft.gay)
 # Screenshots
 
 ![A few biis pollinating a flower with glow berries on the background](https://cdn.modrinth.com/data/yPbBrzEX/images/f74e7f243502e23ec6f8805d38a4c6a5a06df292.png)
