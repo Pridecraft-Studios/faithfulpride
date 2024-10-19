@@ -1,7 +1,18 @@
 {
   "pack": {
-    "pack_format": 15,
-    "supported_formats": [15, 9999],
-    "description": "Faithful Pride 1.0 | Joy Update!"
+    "pack_format": 13,
+    "supported_formats": [13, 999],
+    "description": "Faithful Pride 1.0 | Bundles of Pride!"
+  },
+ "overlays": {
+    "entries": [
+      {
+        "formats": [
+          16,
+          9999
+        ],
+        "directory": "format16"
+      }
+    ]
   }
 }
